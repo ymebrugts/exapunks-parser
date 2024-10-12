@@ -1,8 +1,8 @@
-# Exapunks parser and my solutions
+# EXAPUNKS parser and my solutions
 I found a post describing the binary structure of the solution files and an almost correct Kaitai Struct definition:
 https://www.reddit.com/r/exapunks/comments/973luq/current_solution_file_format/
 
-With these .py files you can parse the EXAPUNK solution files.
+With these .py files you can parse the EXAPUNKS solution files.
 
 # How to use
 ```
