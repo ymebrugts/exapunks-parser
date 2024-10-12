@@ -1,5 +1,5 @@
 # EXAPUNKS parser and my solutions
-I found a post describing the binary structure of the solution files with a Kaitai Struct definition:
+Here is a post describing the binary structure of the solution files with a Kaitai Struct definition:
 https://www.reddit.com/r/exapunks/comments/973luq/current_solution_file_format/
 
 With these .py files you can parse the EXAPUNKS solution files.
